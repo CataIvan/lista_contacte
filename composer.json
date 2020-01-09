@@ -1,0 +1,12 @@
+{
+    "name": "catalin.ivan/lista_contacte",
+    "description": "Aplicatie de contacte",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Catalin Ivan",
+            "email": "catalin.ivan@materom.ro"
+        }
+    ],
+    "require": {}
+}
